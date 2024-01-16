@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65968cd7b69c6ad39dd9f6c0"
+  },
+  "propertyID": "30ff5cac-aaa3-4b01-84dc-da8d15c4399d",
+  "profileID": "a74ffc48-4534-4b9c-980f-b0d57b96cf8e",
+  "propertyName": "EOS",
+  "propertyDescription": "Located near Empire State Building",
+  "tags": [
+    "wifi",
+    "fire alarm"
+  ],
+  "price": 4500,
+  "city": "New York",
+  "state": "New York",
+  "propertyType": "Apartment",
+  "listingType": "For Rent"
+},
+{
+  "_id": {
+    "$oid": "65968b57b69c6ad39dd9f6be"
+  },
+  "propertyID": "4cb50323-f91d-4c2b-8cab-1c67dd5db8db",
+  "profileID": "a74ffc48-4534-4b9c-980f-b0d57b96cf8e",
+  "propertyName": "Five Pointz",
+  "propertyDescription": "Nice apartment in Five Pointz building",
+  "tags": [
+    "wifi",
+    "security"
+  ],
+  "price": 3800,
+  "city": "New York",
+  "state": "New York",
+  "propertyType": "Bunglow",
+  "listingType": "For Rent"
+}]

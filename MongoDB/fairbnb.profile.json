@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "659687e7b69c6ad39dd9f6ba"
+  },
+  "profileID": "a74ffc48-4534-4b9c-980f-b0d57b96cf8e",
+  "firstName": "John",
+  "lastName": "Doe",
+  "coverImage": "https://picsum.photos/1000/300",
+  "profileImage": "https://picsum.photos/200/300"
+}]
